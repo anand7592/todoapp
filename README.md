@@ -10,6 +10,10 @@ A simple React-based Todo List application that lets you add, toggle, and delete
 - Tasks are saved between sessions (local storage)
 - Responsive and clean UI
 
+## Demo
+
+Try the live demo: [https://tododemos.netlify.app/](https://tododemos.netlify.app/)
+
 ## Getting Started
 
 ### Prerequisites
